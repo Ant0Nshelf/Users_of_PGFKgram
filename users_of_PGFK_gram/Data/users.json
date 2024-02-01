@@ -1,0 +1,56 @@
+[
+  {
+    "password": "jonaxill",
+    "birthday": "1961-12-10",
+    "email": "stanley.fail@gmail.com",
+    "username": "Stanley.real",
+    "id": "63bc1104-146c-46a2-a1b9-6c8925b0dbaf",
+    "errors": [],
+    "isValid": false
+  },
+  {
+    "password": "May12crush",
+    "birthday": "1988-09-08",
+    "email": "antoine.harv@hotmail.com",
+    "username": "Antione.false",
+    "id": "0bca6cd6-677e-416c-874a-9f5010414f96",
+    "errors": [],
+    "isValid": false
+  },
+  {
+    "password": "fortdawn3",
+    "birthday": "1972-10-09",
+    "email": "marybelle.bartoletti@yahoo.com",
+    "username": "Lilie.connie",
+    "id": "e0fafbf8-0173-4183-b303-8910428c6031",
+    "errors": [],
+    "isValid": false
+  },
+  {
+    "password": "fanixs121",
+    "birthday": "1970-12-26",
+    "email": "dorene.cole@gmail.com",
+    "username": "hannelore.schuppe",
+    "id": "0e28f5f0-c718-4c6f-99a8-9b021172e634",
+    "errors": [],
+    "isValid": false
+  },
+  {
+    "password": "64327209",
+    "birthday": "1986-04-04",
+    "email": "regan.gulgows@yahoo.com",
+    "username": "kori.casesin",
+    "id": "7ecbb539-9eda-4d97-8592-aeaad3a8d25d",
+    "errors": [],
+    "isValid": false
+  },
+  {
+    "password": "er112233",
+    "birthday": "2000-05-25",
+    "email": "Ant.ON@gmail.com",
+    "username": "Ant.ON",
+    "id": "57a12346-0a34-4f62-b7a5-c7d5439efaa1",
+    "errors": [],
+    "isValid": false
+  }
+]
